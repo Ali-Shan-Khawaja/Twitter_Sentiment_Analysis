@@ -14,3 +14,7 @@ venv/
 .env/
 *.env
 *.pem
+
+# Ignore the Power BI files with source connection
+
+Sentiment_Analysis_With_Source.pbix
