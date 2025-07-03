@@ -1,0 +1,5 @@
+pandas
+textblob
+snowflake-connector-python
+python-dotenv
+nltk
