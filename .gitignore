@@ -1,0 +1,20 @@
+# Ignore Jupyter files
+*.ipynb
+.ipynb_checkpoints/
+
+# Ignore system/cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+*.env
+*.pem
+
+# Ignore the Power BI files with source connection
+
+Sentiment_Analysis_With_Source.pbix
